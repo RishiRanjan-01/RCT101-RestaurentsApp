@@ -1,0 +1,198 @@
+[
+    {
+        "id" : 1,
+      "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant1.jpeg",
+      "name": "Chaitanya Parathas",
+      "category": [
+        "North India",
+        "Punjabi",
+        "Chinese",
+        "Thalis Combo",
+        "Beverages"
+      ],
+      "rating": 4.3,
+      "deliveryTimings": "33 MINS",
+      "costfortwo": 200,
+      "offers": ["20% off", "Use TRYNEW"],
+      "Payment_method":{
+        "card":true,
+        "cash":false,
+        "upi":false
+      }
+    },
+    {
+        "id":2,
+        "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/drgphrpjbnqcwjsxaiod",
+        "name": "MH 12 Pav Bhaji",
+        "category": [
+          "Snacks,",
+          "Punjabi",
+          "Chinese",
+          "Thalis Combo",
+          "Beverages"
+        ],
+        "rating": 3.5,
+        "deliveryTimings": "28 MINS",
+        "costfortwo": 100,
+        "offers": ["20% off", "Use TRYNEW"],
+        "Payment_method":{
+          "card":false,
+          "cash":true,
+          "upi":true
+        }
+      },
+      {
+        "id":3,
+        "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/cadd4qgaodthe0ulvbgv",
+        "name": "New Pal Hotel",
+        "category": [
+          "Indian,",
+          "Tandoor",
+          "Chinese",
+          "Thalis Combo"
+        ],
+        "rating": 3.2,
+        "deliveryTimings": "35 MINS",
+        "costfortwo": 100,
+        "offers": ["20% off", "Use TRYNEW"],
+        "Payment_method":{
+          "card":true,
+          "cash":true,
+          "upi":false
+        }
+      },
+      {
+        "id":4,
+        "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/ssgphjrb7x88b7awla9p",
+        "name": "New Anu Hotel",
+        "category": [
+          "Indian,",
+          "Tandoor",
+          "Chinese",
+          "Thalis Combo"
+        ],
+        "rating": 3.7,
+        "deliveryTimings": "35 MINS",
+        "costfortwo": 100,
+        "offers": ["20% off", "Use TRYNEW"],
+        "Payment_method":{
+          "card":true,
+          "cash":false,
+          "upi":false
+        }
+      },
+      {
+        "id":5,
+        "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/tqlowcscgwhvsdjk6k4v",
+        "name": "Y Cheat Meal",
+        "category": [
+          "Fast Food,",
+          "Tandoor",
+          "Chinese",
+          "Thalis Combo"
+        ],
+        "rating": 3.3,
+        "deliveryTimings": "35 MINS",
+        "costfortwo": 150,
+        "offers": ["20% off", "Use TRYNEW"],
+        "Payment_method":{
+          "card":true,
+          "cash":false,
+          "upi":false
+        }
+      },
+      {
+        "id":6,
+        "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/jq60nvr7sdo5ajeyas2l",
+        "name": "Bhojan Rat Bhar",
+        "category": [
+          "North Indian",
+          "Tandoor"
+        ],
+        "rating": 3.1,
+        "deliveryTimings": "35 MINS",
+        "costfortwo": 120,
+        "offers": ["20% off", "Use TRYNEW"],
+        "Payment_method":{
+          "card":false,
+          "cash":true,
+          "upi":false
+        }
+      },
+      {
+        "id":7,
+        "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/jq60nvr7sdo5ajeyas2l",
+        "name": "Bhojan Rat Bhar",
+        "category": [
+          "North Indian",
+          "Tandoor"
+        ],
+        "rating": 3.1,
+        "deliveryTimings": "35 MINS",
+        "costfortwo": 140,
+        "offers": ["20% off", "Use TRYNEW"],
+        "Payment_method":{
+          "card":true,
+          "cash":false,
+          "upi":false
+        }
+      },
+      {
+        "id":8,
+        "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/jq60nvr7sdo5ajeyas2l",
+        "name": "Bhojan Rat Bhar",
+        "category": [
+          "North Indian",
+          "Tandoor"
+        ],
+        "rating": 3.1,
+        "deliveryTimings": "35 MINS",
+        "costfortwo": 100,
+        "offers": ["20% off", "Use TRYNEW"],
+        "Payment_method":{
+          "card":true,
+          "cash":false,
+          "upi":false
+        }
+      },
+      {
+        "id":9,
+        "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/jq60nvr7sdo5ajeyas2l",
+        "name": "Bhojan Rat Bhar",
+        "category": [
+          "North Indian",
+          "Tandoor"
+        ],
+        "rating": 3.4,
+        "deliveryTimings": "35 MINS",
+        "costfortwo": 160,
+        "offers": ["20% off", "Use TRYNEW"],
+        "Payment_method":{
+          "card":false,
+          "cash":true,
+          "upi":false
+        }
+      },
+      {
+        "id":10,
+        "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/llcul2zdukbshq6lvalf",
+        "name": "Bhojan Rat Bhar",
+        "category": [
+          "North Indian",
+          "Tandoor",
+          "Snacks",
+          "Dessers"
+        ],
+        "rating": 3.9,
+        "deliveryTimings": "35 MINS",
+        "costfortwo": 160,
+        "offers": ["20% off", "Use TRYNEW"],
+        "Payment_method":{
+          "card":false,
+          "cash":false,
+          "upi":false
+        }
+      }
+
+
+  ]
